@@ -1,6 +1,6 @@
       Controle de vendas de Pizza
 Pizzaria: Pizza Alegre
-Versão: 002
+Versão: 003
 Operador:
 
 Telefone:
